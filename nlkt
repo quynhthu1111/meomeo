@@ -1,0 +1,273 @@
+C1: Tổng quan về kt
+C2: Nghiệp vụ KT
+C3: Cty thương mại, lợi nhuận gộp, ĐK hàng hóa
+C4: ĐK hàng tồn kho, FIFO, LIFO, FOB
+C5: ĐK tiền, thương phiếu, phải thu khó đòi, ứng trước hàng bán
+C6: ĐK tài sản cố định, pp khấu hao (đg thẳng...)
+C7: ĐK nợ phải trả, vay ngắn hạn
+C8: Đk vốn csh, lợi nhuận
+
+CHƯƠNG 1
+- Tài sản/ VCSH/ Chi phí: Tăng ghi nợ, giảm ghi có
+- Nợ phải trả/Vốn góp/Dthu: Tăng ghi có, giảm ghi nợ
+
+CHƯƠNG 3
+- DThu thuần bán hàng - Giá vốn hb = Lợi nhuận gộp - Chi phí = Lợi nhuận thuần
+- Giá ĐK + Giá mua trong kỳ = Giá vốn + Giá CK
+
+1, Khi mua hàng hóa nhập kho
+Nợ TK Hàng hóa: giá gốc hàng hóa nhập kho
+Nợ TK Thuế GTGT đầu vào: số thuế GTGT của hàng hóa mua
+	Có TK Phải trả người bán: tổng số còn nợ người bán
+	Có TK Tiền mặt, Tiền gửi ngân hàng: Số đã thanh toán
+
+2, Khi mua hàng hóa mà cuối kỳ hàng vẫn chưa về nhập kho
+Nợ TK Hàng mua đang đi đường: giá gốc hàng hóa mua
+Nợ TK Thuế GTGT đầu vào: số thuế GTGT của hàng hóa mua
+	Có TK Phải trả người bán: tổng số còn nợ người bán
+	Có TK Tiền mặt, Tiền gửi ngân hàng: Số đã thanh toán
+
+3, Sang kì sau, khi hàng đi đường về nhập kho
+Nợ TK Hàng hóa: giá gốc hàng đi đường về nhập kho
+	Có TK Hàng mua đang đi đường
+
+4, Khi mua hàng hóa, phải chịu chi phí vận chuyển
+Nợ TK Hàng hóa: chi phí vận chuyển
+Nợ TK Thuế GTGT đầu vào: số thuế GTGT của dịch vụ vận chuyển
+	Có TK Phải trả người bán: tổng số còn nợ người vận chuyển
+	Có TK Tiền mặt, Tiền gửi ngân hàng: Số đã thanh toán
+
+5, Được hưởng giảm giá hoặc hàng mua trả lại
+Nợ TK Tiền mặt, Tiền gửi ngân hàng: Số tiền nhận lại
+Nợ TK Phải trả người bán: Giảm số nợ phải trả người bán
+	Có TK Hàng hóa: giảm giá trị hàng hóa mua về
+	Có TK Thuế GTGT đầu vào: giảm số thuế GTGT đầu vào tương ứng
+
+6, Thanh toán trước hạn được hưởng chiết khấu thanh toán
+Nợ TK Phải trả người bán: Giảm số nợ phải trả người bán
+	Có TK Hàng hóa: giảm giá trị hàng hóa mua về
+	Có TK Thuế GTGT đầu vào: giảm số thuế GTGT đầu vào tương ứng
+
+7, Khi bán hàng hóa cho khách hàng, ghi nhận 2 bút toán sau:
+Bút toán 1: ghi nhận doanh thu bán hàng:
+Nợ TK Tiền mặt, Tiền gửi ngân hàng: Số tiền đã thu
+Nợ TK Phải thu khách hàng: Số tiền khách hàng còn nợ
+	Có TK Doanh thu bán hàng: giá bán chưa có thuế GTGT
+	Có TK Thuế GTGT phải nộp: số thuế GTGT tương ứng
+Bút toán 2: ghi nhận giá vốn của số hàng đã bán:
+Nợ TK Giá vốn hàng bán: giá vốn của số hàng đã bán
+	Có TK Hàng hóa: giá gốc số hàng xuất bán
+
+8, Khi phát sinh nghiệp vụ hàng bán bị trả lại, ghi nhận 2 bút toán sau:
+Bút toán 1: ghi nhận doanh thu hàng bán bị trả lại:
+Nợ TK Hàng bán bị trả lại và giảm giá hàng bán: doanh thu số hàng bị trả lại
+Nợ TK Thuế GTGT phải nộp: giảm thuế đầu ra phải nộp tương ứng
+	Có TK Tiền mặt, Tiền gửi ngân hàng: số tiền đã trả lại cho khách
+	Có TK Phải thu khách hàng: giảm số nợ cho khách hàng
+Bút toán 2: ghi nhận giá vốn của số hàng đã bán bị trả lại:
+Nợ TK Hàng hóa: giá vốn của số hàng đã bán bị trả lại
+	Có TK Giá vốn hàng bán: ghi giảm giá vốn hàng bán
+
+9, Khi phát sinh nghiệp vụ giảm giá hàng bán cho khách hàng:
+Nợ TK Hàng bán bị trả lại và giảm giá hàng bán: số tiền giảm trừ cho khách hàng
+Nợ TK Thuế GTGT phải nộp: giảm thuế đầu ra phải nộp tương ứng
+	Có TK Tiền mặt, Tiền gửi ngân hàng: số tiền đã trả lại cho khách
+	Có TK Phải thu khách hàng: giảm số nợ cho khách hàng
+
+10, Khi phát sinh nghiệp vụ chiết khấu cho khách hàng:
+Nợ TK Chiết khấu bán hàng: số chiết khấu thanh toán chấp nhận cho khách hàng
+Nợ TK Thuế GTGT phải nộp: giảm thuế đầu ra phải nộp tương ứng
+	Có TK Tiền mặt, Tiền gửi ngân hàng: số tiền đã thanh toán cho khách
+	Có TK Phải thu khách hàng: giảm số nợ cho khách hàng
+
+11, Bút toán CK: nợ dthu, có chi phí
+- Trường hợp công ty có lãi, kế toán ghi:
+Nợ TK Xác định kết quả kinh doanh
+	Có TK Lợi nhuận chưa phân phối
+- Trường hợp công ty bị lỗ, kế toán ghi:
+Nợ TK Lợi nhuận chưa phân phối
+	 Có TK Xác định kết quả kinh doanh
+
+CHƯƠNG 4
+NV1. Mua Hàng hóa 
+	Nợ TK Hàng hóa: Giá gốc HH nhập kho
+	Nợ TK Hàng mua đang đi đường: Nếu hàng mua chưa về nhập kho CK
+	Nợ TK Thuế GTGT được khấu trừ (Nếu có)
+	Có TK Tiền mặt, TGNH.
+	Có TK Phải trả NB.
+      Có TK Ứng trước cho người bán.
+
+NV2. Hàng đang đi đường kỳ trước về nhập kho. KT ghi:
+	Nợ TK Hàng hóa
+	Nợ TK NVL
+		Có TK Hàng mua đang đi đường
+
+NV3. Xuất kho NVL cho sản xuất
+	Nợ TK CP sản xuất
+		Có TK NVL: Giá trị NVL xuất kho
+
+NV4. Xuất kho hàng hóa tiêu thụ
+	Nợ TK GVHB: Giá vốn hàng đã tiêu thụ
+	Nợ TK Hàng gửi bán: GV hàng gửi bán chờ chấp nhận
+		Có TK Hàng hóa: Giá trị Hàng hóa xuất kho.
+
+Số lần luân chuyển hàng tồn kho=Giá vốn hàng bán/HTK bình quân (tính bằng lần)
+Ý nghĩa: Hệ số này cao chứng tỏ DN bán hàng nhanh (cao quá có thể không tốt vì DN có thể thiếu hang)
+
+Số ngày bán hàng tồn kho: 365 ngày/Số lần luân chuyển hàng tồn kho
+Ý nghĩa: Hệ số này nhỏ chứng tỏ DN bán hàng nhanh
+
+CHƯƠNG 5
+Gtri thương phiếu khi đáo hạn = Nợ gốc + Lãi
+Lãi = Nợ gốc x Lãi suất x Thời hạn nợ
+Chiết khấu = Gtri thương phiếu khi đáo hạn x Lãi suất x Thời hạn nợ còn lại
+Số tiền nhận đc khi chiết khấu = gtri thương phiếu khi đáo hạn - chiết khấu
+Số lần thu nợ phải thu (lần): Doanh thu thuần/Phải thu khách hang bình quân 
+- Ý nghĩa: Một năm DN thu được nợ bao nhiêu lần
+- Hệ số này cao chứng tỏ DN thu hồi nợ nhanh, không bị khách hàng chiếm dụng vốn
+Thời gian thu hồi nợ phải thu (ngày): 365/số lần thu nợ phải thu
+- Ý nghĩa: Mất bao nhiêu ngày để DN thu hồi nợ phải thu khách hang
+- Số ngày càng nhỏ chứng tỏ DN thu tiền khách hàng nhanh.
+
+- Khi doanh nghiệp tiếp nhận thương phiếu từ khách hàng, kế toán ghi:
+Nợ TK Thương phiếu phải thu
+	Có TK Doanh thu bán hàng/Cung cấp dịch vụ
+	Có TK Phải thu khách hàng
+
+- Cuối kỳ, nếu thương phiếu phải thu chưa đáo hạn, ghi nhận tiền lãi thương phiếu đã phát sinh:
+Nợ TK Lãi thương phiếu phải thu
+	Có TK Doanh thu lãi thương phiếu
+
+- Khi thương phiếu đáo hạn, doanh nghiệp nhận tiền, kế toán ghi:
+Nợ TK Tiền: Gốc và Lãi
+	Có TK Thương phiếu phải thu: Gốc
+	Có TK Lãi thương phiếu phải thu: Lãi của những kỳ trước
+	Có TK Doanh thu lãi thương phiếu: Lãi kỳ này 
+
+- Nếu doanh nghiệp chiết khấu thương phiếu trước ngày đáo hạn. Tùy thuộc vào số tiền nhận được, kế toán ghi sổ như sau:
++ Nếu số tiền nhận được  > nợ gốc:
+Nợ TK Tiền
+	Có TK Thương phiếu phải thu
+	Có TK Doanh thu lãi thương phiếu
++ Nếu số tiền nhận được < nợ gốc:
+Nợ TK Tiền
+Nợ TK Chi phí lãi thương phiếu
+	Có TK Thương phiếu phải thu
+
+- Trường hợp DN tính thuế GTGT theo phương pháp khấu trừ và khi phát sinh hóa đơn đầu vào, ghi nhận thuế GTGT đầu vào:
+Nợ TK Thuế GTGT đầu vào được khấu trừ
+	Có TK Tiền mặt, TK Tiền gửi ngân hàng, TK Phải trả NB
+
+- Kế toán khoản tạm ứng cho công nhân viên:
++ Khi doanh nghiệp tạm ứng tiền cho công nhân viên:
+Nợ TK Tạm ứng
+	Có TK Tiền mặt
++ Khi công nhân viên thực hiện thanh toán hoàn ứng cho doanh nghiệp:
+Nợ TK Hàng hóa, TK Nguyên vật liệu, TK Tài sản cố định
+Nợ TK Tiền mặt, TK Phải trả người lao động: số tạm ứng thừa
+	Có TK Tạm ứng
+
+- Khi ứng trước tiền cho người bán để mua hàng:
+Nợ TK Ứng trước tiền cho người bán
+	Có TK Tiền mặt, TK Tiền gửi ngân hàng
+
+- Khi nhận được hàng hóa, nguyên vật liệu… trừ vào tiền ứng trước:
+Nợ TK Hàng hóa, TK Nguyên vật liệu…
+Nợ TK Thuế GTGT được khấu trừ
+	Có TK Ứng trước tiền cho người bán
+
+- Nhận lại tiền ứng trước thừa từ người bán:
+Nợ TK Tiền mặt, TK Tiền gửi ngân hàng
+	Có TK Ứng trước tiền cho người bán
+Phải thu khác phát sinh với đối tượng vãng lai:
+Nợ TK Phải thu khác
+	Có TK Tiền mặt, TK Nguyên vật liệu…
+
+- Phương pháp xoá sổ trực tiếp:
+Nợ TK Chi phí nợ khó đòi
+	Có TK Phải thu khách hàng
+
+- Phương pháp lập dự phòng phải thu khó đòi
+Giá trị có thể thu hồi = Tổng tiền phải thu KH - Khoản ước tính k thu được
+1. Doanh nghiệp ước tính nợ phải thu khách hàng khó đòi.
+2. Doanh nghiệp ghi nợ khó đòi ước tính:
+	 Nợ TK Chi phí nợ khó đòi
+		Có TK Dự phòng nợ phải thu khó đòi 
+Lưu ý: TK Dự phòng nợ phải thu khó đòi là tài khoản điều chỉnh của TK Phải thu khách hàng. 
+3. Khi doanh nghiệp chính thức xóa nợ phải thu khách hàng không thu hồi được, sẽ ghi:
+ Nợ TK Dự phòng nợ phải thu khó đòi
+	Có TK Phải thu khách hàng.
+
+CHƯƠNG 6: 
+- Giá trị còn lại = Nguyên giá - Khấu hao lũy kế
+- PP khấu hao đường thẳng
++ Giá trị đc khấu hao = Nguyên giá - Giá trị thu hồi
++ Mức khấu hao năm = Giá trị được khấu hao/ Số năm sử dụng = Gtri đc khấu hao * tỷ lệ khấu hao năm
+- Bảng tính: Năm --> Gtri đc KH --> Tỷ lệ KH năm --> Mức Kh mỗi năm --> Gtri KH lũy kế --> Gtri còn lại
+
+- PP khấu hao nhanh
+Mức KH năm = Gtri còn lại của TSCD đầu năm x Tỷ lệ KH nhanh
+Tỷ lệ KH nhanh(%)=Tỷ lệ KH theo pp dg thẳng x Hệ số đchinh
+
+- PP khấu hao theo sản lượng
+Mức KH bquan/1 dvi sp/công suất = giá trị đc khấu hao/ công suất thiết kế
+Mức trích KH theo kì của TSCD = SL thực tế x Mức Kh bquan/1 dvi sản phâm aka Công suất
+
+- Hiệu suất sử dụng tổng tài sản= Doanh thu thuần/Tài sản bình quân
+Ý nghĩa: Mỗi đồng tài sản sinh ra bao nhiêu đồng doanh thu thuần
+
+- Hiệu suất sử dụng tài sản cố định = Doanh thu thuần/Nguyên giá TSCĐ bình quân
+Ý nghĩa: Mỗi đồng tài sản cố định sinh ra bao nhiêu đồng doanh thu thuần
+
+- ROA = Lợi nhuận thuần/Bình quân tổng tài sản
+Ý nghĩa: Một đồng tài sản bình quân sinh ra được bao nhiêu đồng lợi nhuận thuần.
+
+CHƯƠNG 7
+- Hệ số khả năng thanh toán ngắn hạn (CR):
+Tính: CR = Tài sản ngắn hạn/Nợ ngắn hạn
+Ý nghĩa: Một đồng nợ ngắn hạn được đảm bảo bằng bao nhiêu đồng tài sản ngắn hạn. Là tốt nhưng cao quá lại không tốt vì giữ nhiều TS ngắn hạn, khả năng sinh lời thấp
+
+- Hệ số khả năng thanh toán nhanh (QR):
+Tính: QR = (Tài sản ngắn hạn-Hàng tồn kho)/Nợ ngắn hạn
+Ý nghĩa: Khả năng thanh toán nợ ngắn hạn bằng những TS có thể chuyển đổi thành tiền nhanh
+
+CHƯƠNG 8:
+- Tại công ty một thành viên và công ty hợp danh: CSH phải chịu trách nhiệm vô hạn với khoản nợ của công ty
+- Tại công ty cổ phần: các CSH chỉ chịu trách nhiệm trong phạm vi phần vốn góp tại công ty
+- Thặng dư vốn cổ phần hay còn gọi là thặng dư vốn trong công ty cổ phần là phần chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu.
+- Thặng dư vốn cổ phần = (Giá phát hành - Mệnh giá) x Số lượng cổ phần phát hành
+- Quỹ đầu tư phát triển: được trích lập từ lợi nhuận sau thuế TNDN và được sử dụng vào việc đầu tư mở rộng quy mô sản xuất, kinh doanh hoặc đầu tư chiều sâu của doanh nghiệp
+- Quỹ dự phòng tài chính: được trích lập từ lợi nhuận sau thuế TNDN và được sử dung để bù đắp trong trường hợp rủi ro, tổn thất về mặt tài chính.
+1, KHI CÔNG TY NHẬN VỐN GÓP TỪ CÁC THÀNH VIÊN GÓP VỐN BẰNG TIỀN HOẶC HIỆN VẬT
+Kế toán ghi tăng tiền, tài sản nhận về đồng thời ghi tăng vốn đầu tư/ vốn góp của các thành viên góp vốn
+2, KHI CÔNG TY PHÁT HÀNH CỔ PHIẾU THU TIỀN
+Kế toán ghi tăng (ghi Nợ) tiền gửi ngân hàng, đồng thời ghi tăng (ghi Có) vốn đầu tư của Chủ sở hữu – Cổ phiếu thường
+- Trường hợp giá phát hành của cổ phiếu cao hơn mệnh giá cổ phiếu: Phần chênh lệch được ghi vào bên Có của TK Thặng dư vốn cổ phần
+- Trường hợp giá phát hành của cổ phiếu thấp hơn mệnh giá cổ phiếu: Phần chênh lệch được ghi vào: 
+Bên Nợ của TK Thặng dư vốn cổ phần nếu tài khoản này đang có số dư bên có.
+Ghi giảm (ghi Nợ) vào TK lợi nhuận chưa phân phối Nếu TK này không có số dư bên Có.
+
+- Vì cổ phiếu quỹ có thể được coi là cổ phiếu chưa bán, không được huỷ bỏ và có thể phát hành trở lại, nên cổ phiếu quỹ có thể được coi là khoản điều chỉnh giảm của cổ phiếu thường và được ghi âm bên phần VCSH của BCĐKT. 
+
+- Khi công ty tiến hành mua lại cổ phiếu trên thị trường, giá trị của cổ phiếu quỹ được ghi nhận theo nguyên tắc giá gốc là giá mua vào của số cổ phiếu này. Kế toán sẽ được ghi tăng giá trị cổ phiếu quỹ đồng thời ghi giảm số tiền công ty phải chi trả để mua số cổ phiếu này.
+
+- Sau một thời gian nắm  giữ, công ty có thể quyết định tái phát hành cổ phiếu quỹ. Giá phát hành của cổ phiếu quỹ có thể bằng, cao hơn hay thấp hơn giá trị ghi sổ.
+
+- Khi tái phát hành cổ phiếu quỹ với giá bằng giá trị ghi sổ của nó, kế toán ghi giảm giá trị cổ phiếu quỹ trong công ty đồng thời ghi tăng giá trị phần tiền nhận về từ giao dịch. 
+
+- Trường hợp giá tái phát hành lớn hơn giá trị ghi sổ của cổ phiếu quỹ, phần chênh lệch được ghi nhận vào bên Có tài khoản Thặng dư vốn cổ phần.
+Ngược lại, nếu giá tái phát hành thấp hơn giá trị ghi sổ của cổ phiếu quỹ:
+Phần chênh lệch được ghi nhận vào bên Nợ tài khoản Thặng dư vốn cổ phần nếu TK này đang có số dư bên có
+Phần còn lại sẽ được ghi giảm (Ghi Nợ) vào tài khoản lợi nhuận chưa phân phối nếu TK thặng dư vốn cổ phần không có số dư bên có hoặc số dư bên có không đủ để điều chỉnh cho phần chênh lệch
+
+- Tuy nhiên, cổ phiếu ưu đãi thường không có quyền biểu quyết. 
++ Ưu đãi cổ tức: được trả cổ tức với mức cao hơn và sớm hơn so với mức cổ tức của cổ phiếu phổ thông hoặc mức cố định hang năm không phụ thuộc vào kết quả kinh doanh của công ty
++ Ưu đãi hoàn vốn khi DN bị giải thể hoặc phá sản: Hầu hết các cổ phiếu ưu đãi đều có quyền ưu tiên.
+
+- Tỷ suất Lợi nhuận trên vốn chủ sở hữu (ROE)
+Tính: ROE = Lợi nhuận thuần/Vốn chủ sở hữu bình quân
+Ý nghĩa: Cao là tốt, nhưng cao quá phản ánh rủi ro nhiều
+
+- Lợi nhuận trên 1 cổ phần (EPS)
+Tính: Lợi nhuận cho cổ đông thường/Số cổ phần phổ thông đang lưu hành
+Ý nghĩa: cao là tốt
